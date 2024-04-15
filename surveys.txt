@@ -1,0 +1,226 @@
+Game Name: Tekken 3
+Question: How would you rate the graphics quality of Tekken 3?
+Multiple Choice: true
+### Choices ###
+- Excellent
+- Good
+- Average
+- Poor
+### End of Choices ###
+### Answers ###
+Good
+Average
+Excellent
+Excellent
+Excellent
+### End of Answers ###
+
+Game Name: Tekken 3
+Question: Which character do you enjoy playing the most in Tekken 3?
+Multiple Choice: false
+### Answers ###
+Bryan Fury
+Myself
+Piet
+### End of Answers ###
+
+
+Game Name: Crash Bandicoot
+Question: How do you feel about the difficulty level of Crash Bandicoot?
+Multiple Choice: true
+### Choices ###
+- Too easy
+- Just right
+- Challenging
+- Too hard
+### End of Choices ###
+### Answers ###
+Just right
+Challenging
+Too easy
+### End of Answers ###
+
+Game Name: Crash Bandicoot
+Question: What's your favorite level in Crash Bandicoot?
+Multiple Choice: false
+### Answers ###
+Level 5!
+### End of Answers ###
+
+Game Name: Crash Bandicoot
+Question: How would you rate the sound effects in Crash Bandicoot?
+Multiple Choice: true
+### Choices ###
+- Excellent
+- Good
+- Average
+- Poor
+### End of Choices ###
+### Answers ###
+Good
+Excellent
+Average
+### End of Answers ###
+
+
+Game Name: Super Bomberman 5
+Question: What do you think about the multiplayer experience in Super Bomberman 5?
+Multiple Choice: true
+### Choices ###
+- Fun
+- Enjoyable
+- Average
+- Boring
+### End of Choices ###
+### Answers ###
+Fun
+Enjoyable
+Boring
+### End of Answers ###
+
+Game Name: Super Bomberman 5
+Question: Have you encountered any bugs or glitches while playing Super Bomberman 5?
+Multiple Choice: false
+### Answers ###
+No, I haven't
+### End of Answers ###
+
+Game Name: Super Bomberman 5
+Question: Would you recommend Super Bomberman 5 to a friend?
+Multiple Choice: true
+### Choices ###
+- Yes
+- No
+### End of Choices ###
+### Answers ###
+Yes
+Yes
+No
+### End of Answers ###
+
+
+Game Name: RollerCoaster Tycoon
+Question: How do you rate the overall enjoyment of playing RollerCoaster Tycoon?
+Multiple Choice: true
+### Choices ###
+- Very enjoyable
+- Enjoyable
+- Neutral
+- Not enjoyable
+### End of Choices ###
+### Answers ###
+Enjoyable
+Neutral
+Very enjoyable
+### End of Answers ###
+
+Game Name: RollerCoaster Tycoon
+Question: What's your favorite feature in RollerCoaster Tycoon?
+Multiple Choice: false
+### Answers ###
+Building custom roller coasters!
+### End of Answers ###
+
+
+Game Name: Donkey Kong
+Question: How challenging do you find Donkey Kong?
+Multiple Choice: true
+### Choices ###
+- Too easy
+- Just right
+- Challenging
+- Very challenging
+### End of Choices ###
+### Answers ###
+Just right
+Challenging
+Very challenging
+### End of Answers ###
+
+Game Name: Donkey Kong
+Question: Which level do you find the most difficult in Donkey Kong?
+Multiple Choice: false
+### Answers ###
+Level 5!
+### End of Answers ###
+
+
+Game Name: Sonic the Hedgehog
+Question: What do you think about the level design in Sonic the Hedgehog?
+Multiple Choice: true
+### Choices ###
+- Excellent
+- Good
+- Average
+- Poor
+### End of Choices ###
+### Answers ###
+Good
+Excellent
+Average
+### End of Answers ###
+
+Game Name: Sonic the Hedgehog
+Question: Who is your favorite character in Sonic the Hedgehog?
+Multiple Choice: false
+### Answers ###
+Sonic!
+### End of Answers ###
+
+
+Game Name: Space Invaders
+Question: How addictive do you find Space Invaders?
+Multiple Choice: true
+### Choices ###
+- Very addictive
+- Addictive
+- Neutral
+- Not addictive
+### End of Choices ###
+### Answers ###
+Addictive
+Very addictive
+### End of Answers ###
+
+Game Name: Space Invaders
+Question: How would you rate the difficulty level of Space Invaders?
+Multiple Choice: false
+### Answers ###
+Challenging!
+### End of Answers ###
+
+
+Game Name: Pac-Man
+Question: How nostalgic do you feel when playing Pac-Man?
+Multiple Choice: true
+### Choices ###
+- Very nostalgic
+- Nostalgic
+- Neutral
+- Not nostalgic
+### End of Choices ###
+### Answers ###
+Nostalgic
+Very nostalgic
+### End of Answers ###
+
+Game Name: Pac-Man
+Question: Which power-up do you like the most in Pac-Man?
+Multiple Choice: false
+### Answers ###
+The Cherry!
+### End of Answers ###
+
+
+Game Name: Vogeltjepik
+Question: Vond je het echt leuk?
+Multiple Choice: true
+### Choices ###
+- Ja
+- Nee
+### End of Choices ###
+### Answers ###
+Ja
+### End of Answers ###
+
+
